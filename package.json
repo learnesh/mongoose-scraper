@@ -1,0 +1,27 @@
+
+{
+  "name": "mongoose-scraper",
+  "version": "1.0.0",
+  "description": "MongoDB app that scrapes news data from the web and allows users to comment.",
+  "main": "server.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learnesh/mongoose-scraper.git"
+  },
+  "author": "learnesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "git+https://github.com/learnesh/mongoose-scraper.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "cheerio": "^0.22.0",
+    "express": "^4.14.0",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.7.1",
+    "morgan": "^1.7.0",
+    "request": "^2.79.0"
+  }
+}
